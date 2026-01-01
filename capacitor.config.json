@@ -1,0 +1,13 @@
+
+{
+  "appId": "com.bravotv.app",
+  "appName": "Bravo TV",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}

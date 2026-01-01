@@ -1,0 +1,8 @@
+{
+  "name": "Bravo TV",
+  "description": "Premium IPTV experience with a minimalist Smart TV interface, instant zapping, and fluid 60fps animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
